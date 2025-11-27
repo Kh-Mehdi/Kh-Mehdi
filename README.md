@@ -3,6 +3,7 @@ Artificial Intelligence and Full-Stack Software Engineer with strong dual expert
 machine learning. Holder of an Engineering degree in Computer Science (MIAGE) and a Master’s in Applied 
 Artificial Intelligence from Université Côte d’Azur. Skilled in designing complete software solutions, implementing 
 intelligent systems, and delivering high-quality products. <br>
+<br>
 🔭 Seeking an opportunity as a Full-Stack Engineer or AI Developer to contribute to innovative software projects 
 combining modern development and intelligent systems.<br>
 
